@@ -46,10 +46,11 @@ I’m actively expanding my skillset with certifications in **Cloud Computing**,
 
 ---
 
-### 📈 GitHub Stats (Auto-Updating)
+### 📈 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityabande25&show_icons=true&theme=github_dark" alt="Aditya's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityabande25&show_icons=true&theme=github_dark&cache_seconds=1800" />
+
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityabande25&theme=github-dark" alt="GitHub Streak" />
   <br/>
