@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Bande</h1>
 <h3 align="center">Enthusiastic Software Developer | Python & Java Programmer | Web & Automation Projects | Cloud & Tech Consulting Certified</h3>
 
-
 ---
 
 🎓 B.Tech in Electronics & Communication Engineering  
@@ -47,12 +46,12 @@ I’m actively expanding my skillset with certifications in **Cloud Computing**,
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Auto-Updating)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityabande25&show_icons=true&theme=github_dark" alt="Aditya's GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=adityabande25&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityabande25&theme=github-dark" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabande25&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
