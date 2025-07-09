@@ -3,8 +3,7 @@
 
 ---
 
-🎓 B.Tech in Electronics & Communication Engineering  
-📍 Pune, India  
+🎓 B.Tech in Electronics & Communication Engineering   
 📧 bandeaditya05@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/adityabande25) | 🔗 [GitHub](https://github.com/adityabande25)
 
