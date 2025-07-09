@@ -48,13 +48,23 @@ I’m actively expanding my skillset with certifications in **Cloud Computing**,
 ### 📈 GitHub Stats 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityabande25&show_icons=true&theme=github_dark&cache_seconds=1800" />
+
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adityabande25&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityabande25&theme=github-dark" alt="GitHub Streak" />
+
+  <!-- GitHub Streak Stats (Stable Mirror) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityabande25&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" alt="GitHub Streak" />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabande25&layout=compact&theme=github_dark" alt="Top Languages" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabande25&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+
 </p>
+
+
 
 ---
 
