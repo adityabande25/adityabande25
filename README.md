@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate and driven software developer with a foundation in **Electronics and Telecommunication** and hands-on experience in **Python, Java, SQL**, and **full-stack web development**.
+I’m a passionate and driven software developer with a foundation in **Electronics and Telecommunication** and hands-on experience in **Python, Java, SQL**, and ** web development**.
 
 I’m actively expanding my skillset with certifications in **Cloud Computing**, **Technology Consulting**, and simulations from **Deloitte, AWS, and Verizon**.
 
