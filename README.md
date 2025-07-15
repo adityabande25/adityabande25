@@ -17,7 +17,7 @@ I’m actively expanding my skillset with certifications in **Cloud Computing**,
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
