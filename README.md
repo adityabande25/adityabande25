@@ -40,8 +40,9 @@ I’m actively expanding my skillset with certifications in **Cloud Computing**,
 ### 🎓 Certifications
 
 - 💼 Deloitte – Technology Consulting Virtual Internship (Forage)  
-- ☁️ AWS – Solutions Architect Job Simulation (Forage)  
-- 🧩 Verizon – Cloud Platform Virtual Experience (Forage)  
+- ☁️ AWS – Solutions Architect Job Simulation (Forage)
+- 🧩 Citi-Technology Software Development Job Simulation(Forage)
+
 
 ---
 
